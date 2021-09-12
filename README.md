@@ -1,5 +1,5 @@
 # Assignment_1_SDwP
-This is the solution of the first assignmnet for Software Design with Python course. In this repository contains different implementations of functions decorators.
+This is the solution of the first assignmnet for Software Design with Python course.This repository contains different implementations of functions decorators.
 This repository includes 5 files: task1.py-task4.py and main.py.
 
 - task1.py includes implementation of a function decorator that calculates function execution time and the number of times the decorated function was called (function call trace). It works for multiple functions.
